@@ -1,0 +1,18 @@
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+  text-align: center;
+}
+
+body {
+  background-color: Black;
+  text-align: center;
+}
+
+h2 a{
+  font-family: Verdana;
+  color: Aquamarine;
+  font-size: 16px;
+}
